@@ -1,11 +1,29 @@
 # Gaussian-FAQ
 
-#Auther name: Liu Gaoyong (Young)
-#E-mail: liugaoyong_88@163.com
-#This is used to tell you how to use this FAQ.
-- 1. Search you problem in the file "index.txt"
--	2. Find your problem's solution in the file whose name "index.txt" give you.
--	3. Read that file and solve your problem.
+---
+> ### Auther name: Liu Gaoyong (Young)
+> ### E-mail: liugaoyong_88@163.com or liugaoyong88@gmail.com
+> ### 
 
-Create file 1
+---
+##### Refenrence
+- sdgad
+
+---
+
+
+
+Number | Solved Problem
+    -  | -
+  0    | How to install
+  1    | l502（Convergence failure）
+
+
+
+
+
+
+
+
+
 

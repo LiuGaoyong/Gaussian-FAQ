@@ -11,28 +11,22 @@
 
 ---
 
-###### Number  Solved Problem
-######   0.     How to install
-######   1.     l502（Convergence failure）
-######
-
-
 <body>
   <table>
     <tr>
-      <th>语文</th>
-      <td>7:00-7:40</td>
+      <th>Number</th>
+      <td>Solved Problem</td>
     </tr>
    <tr>
-      <th>数学</th>
-      <td>7:00-7:40</td>
+      <th>0</th>
+      <td>How to install</td>
     </tr>
     <tr>
-      <th>英文</th>
-      <td>7:00-7:40</td>
+      <th>1</th>
+      <td>L502（Convergence failure）</td>
     </tr>
     <tr>
-      <th>fdg</th>
+      <th>2</th>
       <td>7:0wger40</td>
     </tr>
   </table>

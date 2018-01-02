@@ -20,11 +20,15 @@
     </tr>
    <tr>
       <th>0</th>
-      <td>How to install</td>
+      <td>
+        <a href="https://github.com/LiuGaoyong/Gaussian-FAQ/blob/master/0-How_to_install.md">How to install</a>  
+      </td>
     </tr>
     <tr>
       <th>1</th>
-      <td>L502（Convergence failure）</td>
+      <td>
+        <a href="https://github.com/LiuGaoyong/Gaussian-FAQ/blob/master/1-l502_error.md">L502（Convergence failure）</a>
+      </td>
     </tr>
     <tr>
       <th>2</th>
